@@ -1,0 +1,37 @@
+INFO:cimpy.cimimport:START of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\Sample_Grid_Switches\Node-Breaker\20191030T0924Z_XX_YYY_DL_.xml"
+INFO:cimpy.cimimport:START of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\Sample_Grid_Switches\Node-Breaker\20191030T0924Z_XX_YYY_GL_.xml"
+INFO:cimpy.cimimport:START of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\Sample_Grid_Switches\Node-Breaker\20191030T0924Z_XX_YYY_SSH_.xml"
+INFO:cimpy.cimimport:START of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\Sample_Grid_Switches\Node-Breaker\20191030T0924Z_XX_YYY_SV_.xml"
+INFO:cimpy.cimimport:START of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\Sample_Grid_Switches\Node-Breaker\20191030T0924Z_XX_YYY_TP_.xml"
+INFO:cimpy.cimimport:START of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\Sample_Grid_Switches\Node-Breaker\20191030T0924Z_YYY_EQ_.xml"
+INFO:cimpy.cimimport:END of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\Sample_Grid_Switches\Node-Breaker\20191030T0924Z_XX_YYY_DL_.xml"
+INFO:cimpy.cimimport:END of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\Sample_Grid_Switches\Node-Breaker\20191030T0924Z_XX_YYY_GL_.xml"
+INFO:cimpy.cimimport:END of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\Sample_Grid_Switches\Node-Breaker\20191030T0924Z_XX_YYY_SSH_.xml"
+INFO:cimpy.cimimport:END of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\Sample_Grid_Switches\Node-Breaker\20191030T0924Z_XX_YYY_SV_.xml"
+INFO:cimpy.cimimport:END of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\Sample_Grid_Switches\Node-Breaker\20191030T0924Z_XX_YYY_TP_.xml"
+INFO:cimpy.cimimport:END of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\Sample_Grid_Switches\Node-Breaker\20191030T0924Z_YYY_EQ_.xml"
+INFO:cimpy.cimimport:CIM object DiagramObject created : 45 times
+INFO:cimpy.cimimport:CIM object Diagram created : 1 times
+INFO:cimpy.cimimport:CIM object DiagramObjectPoint created : 82 times
+INFO:cimpy.cimimport:CIM object CoordinateSystem created : 1 times
+INFO:cimpy.cimimport:CIM object TopologicalNode created : 12 times
+INFO:cimpy.cimimport:CIM object ConnectivityNode created : 12 times
+INFO:cimpy.cimimport:CIM object CurrentLimit created : 6 times
+INFO:cimpy.cimimport:CIM object SubGeographicalRegion created : 12 times
+INFO:cimpy.cimimport:CIM object BusbarSection created : 6 times
+INFO:cimpy.cimimport:CIM object OperationalLimitSet created : 12 times
+INFO:cimpy.cimimport:CIM object VoltageLimit created : 12 times
+INFO:cimpy.cimimport:CIM object Junction created : 6 times
+INFO:cimpy.cimimport:CIM object Substation created : 12 times
+INFO:cimpy.cimimport:CIM object Terminal created : 38 times
+INFO:cimpy.cimimport:CIM object OperationalLimitType created : 3 times
+INFO:cimpy.cimimport:CIM object Breaker created : 10 times
+INFO:cimpy.cimimport:CIM object VoltageLevel created : 12 times
+INFO:cimpy.cimimport:CIM object GeographicalRegion created : 1 times
+INFO:cimpy.cimimport:CIM object ACLineSegment created : 3 times
+INFO:cimpy.cimimport:CIM object BaseVoltage created : 1 times
+INFO:cimpy.cimimport:Created totally 287 CIM objects in 0.04700016975402832s
+
+
+INFO:cimpy.cimexport:Start export procedure.
+ERROR:cimpy.cimexport:File Bus_Branch_Converted_DiagramLayout.xml already exists. Delete file or change file name to serialize CGMES classes.

@@ -1,0 +1,144 @@
+INFO:cimpy.cimimport:START of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\CIGRE_MV\9Bus SystemÊ¾Àý.xml"
+INFO:cimpy.cimimport:END of parsing file "C:\Users\Administrator\Desktop\cimpy-master\cimpy\examples\sampledata\CIGRE_MV\9Bus SystemÊ¾Àý.xml"
+WARNING:cimpy.cimimport:Package information not found for class type : 169 times
+WARNING:cimpy.cimimport:Module IEC61970CIMVersion not implemented : 1 times
+WARNING:cimpy.cimimport:Module TransformerWinding not implemented : 6 times
+WARNING:cimpy.cimimport:Package information not found for class ACLineSegment, attribute BaseVoltage : 6 times
+WARNING:cimpy.cimimport:Package information not found for class ACLineSegment, attribute b0ch : 6 times
+WARNING:cimpy.cimimport:Package information not found for class ACLineSegment, attribute bch : 6 times
+WARNING:cimpy.cimimport:Package information not found for class ACLineSegment, attribute g0ch : 6 times
+WARNING:cimpy.cimimport:Package information not found for class ACLineSegment, attribute gch : 6 times
+WARNING:cimpy.cimimport:Package information not found for class ACLineSegment, attribute length : 6 times
+WARNING:cimpy.cimimport:Package information not found for class ACLineSegment, attribute r : 6 times
+WARNING:cimpy.cimimport:Package information not found for class ACLineSegment, attribute r0 : 6 times
+WARNING:cimpy.cimimport:Package information not found for class ACLineSegment, attribute x : 6 times
+WARNING:cimpy.cimimport:Package information not found for class ACLineSegment, attribute x0 : 6 times
+WARNING:cimpy.cimimport:'ACLineSegment' has not attribute 'equivalent' : 6 times
+WARNING:cimpy.cimimport:Package information not found for class ACLineSegment, attribute name : 6 times
+WARNING:cimpy.cimimport:'BaseVoltage' has not attribute 'isDC' : 4 times
+WARNING:cimpy.cimimport:Package information not found for class BaseVoltage, attribute nominalVoltage : 4 times
+WARNING:cimpy.cimimport:Package information not found for class BaseVoltage, attribute name : 4 times
+WARNING:cimpy.cimimport:Package information not found for class ControlArea, attribute netInterchange : 1 times
+WARNING:cimpy.cimimport:Package information not found for class ControlArea, attribute pTolerance : 1 times
+WARNING:cimpy.cimimport:Package information not found for class ControlArea, attribute name : 1 times
+WARNING:cimpy.cimimport:Package information not found for class CurrentLimit, attribute value : 18 times
+WARNING:cimpy.cimimport:Package information not found for class CurrentLimit, attribute OperationalLimitSet : 18 times
+WARNING:cimpy.cimimport:Package information not found for class CurrentLimit, attribute OperationalLimitType : 18 times
+WARNING:cimpy.cimimport:Package information not found for class EnergyConsumer, attribute LoadResponse : 3 times
+WARNING:cimpy.cimimport:'EnergyConsumer' has not attribute 'MemberOf_EquipmentContainer' : 3 times
+WARNING:cimpy.cimimport:'EnergyConsumer' has not attribute 'equivalent' : 3 times
+WARNING:cimpy.cimimport:Package information not found for class EnergyConsumer, attribute name : 3 times
+WARNING:cimpy.cimimport:'GeneratingUnit' has not attribute 'MemberOf_EquipmentContainer' : 3 times
+WARNING:cimpy.cimimport:'GeneratingUnit' has not attribute 'equivalent' : 3 times
+WARNING:cimpy.cimimport:Package information not found for class GeneratingUnit, attribute governorSCD : 3 times
+WARNING:cimpy.cimimport:Package information not found for class GeneratingUnit, attribute maxOperatingP : 3 times
+WARNING:cimpy.cimimport:Package information not found for class GeneratingUnit, attribute maximumAllowableSpinningReserve : 3 times
+WARNING:cimpy.cimimport:Package information not found for class GeneratingUnit, attribute minOperatingP : 3 times
+WARNING:cimpy.cimimport:Package information not found for class GeneratingUnit, attribute nominalP : 3 times
+WARNING:cimpy.cimimport:Package information not found for class GeneratingUnit, attribute normalPF : 3 times
+WARNING:cimpy.cimimport:Package information not found for class GeneratingUnit, attribute startupCost : 3 times
+WARNING:cimpy.cimimport:Package information not found for class GeneratingUnit, attribute variableCost : 3 times
+WARNING:cimpy.cimimport:Package information not found for class GeneratingUnit, attribute name : 3 times
+WARNING:cimpy.cimimport:Package information not found for class GeographicalRegion, attribute name : 1 times
+WARNING:cimpy.cimimport:Missing IEC61970CIMVersion object with uuid: _8a1f6b63-fd11-41a7-87a2-30b9fe251353 : 1 times
+WARNING:cimpy.cimimport:Package information not found for class LoadResponseCharacteristic, attribute name : 1 times
+WARNING:cimpy.cimimport:Package information not found for class LoadResponseCharacteristic, attribute exponentModel : 1 times
+WARNING:cimpy.cimimport:Package information not found for class LoadResponseCharacteristic, attribute pConstantPower : 1 times
+WARNING:cimpy.cimimport:Package information not found for class LoadResponseCharacteristic, attribute qConstantPower : 1 times
+WARNING:cimpy.cimimport:Package information not found for class OperationalLimitSet, attribute name : 36 times
+WARNING:cimpy.cimimport:Package information not found for class OperationalLimitSet, attribute Terminal : 36 times
+WARNING:cimpy.cimimport:Package information not found for class OperationalLimitType, attribute name : 3 times
+WARNING:cimpy.cimimport:Package information not found for class OperationalLimitType, attribute acceptableDuration : 3 times
+WARNING:cimpy.cimimport:Package information not found for class OperationalLimitType, attribute direction : 3 times
+WARNING:cimpy.cimimport:'PowerTransformer' has not attribute 'MemberOf_EquipmentContainer' : 3 times
+WARNING:cimpy.cimimport:'PowerTransformer' has not attribute 'equivalent' : 3 times
+WARNING:cimpy.cimimport:Package information not found for class PowerTransformer, attribute name : 3 times
+WARNING:cimpy.cimimport:Package information not found for class RegulatingControl, attribute name : 1 times
+WARNING:cimpy.cimimport:Package information not found for class RegulatingControl, attribute Terminal : 1 times
+WARNING:cimpy.cimimport:Package information not found for class RegulatingControl, attribute discrete : 1 times
+WARNING:cimpy.cimimport:Package information not found for class RegulatingControl, attribute mode : 1 times
+WARNING:cimpy.cimimport:'RegulatingControl' has not attribute 'targetRange' : 1 times
+WARNING:cimpy.cimimport:Package information not found for class RegulatingControl, attribute targetValue : 1 times
+WARNING:cimpy.cimimport:Package information not found for class SubGeographicalRegion, attribute name : 1 times
+WARNING:cimpy.cimimport:Package information not found for class SubGeographicalRegion, attribute Region : 1 times
+WARNING:cimpy.cimimport:Package information not found for class Substation, attribute name : 9 times
+WARNING:cimpy.cimimport:Package information not found for class Substation, attribute Region : 9 times
+WARNING:cimpy.cimimport:Package information not found for class SvPowerFlow, attribute Terminal : 6 times
+WARNING:cimpy.cimimport:Package information not found for class SvPowerFlow, attribute p : 6 times
+WARNING:cimpy.cimimport:Package information not found for class SvPowerFlow, attribute q : 6 times
+WARNING:cimpy.cimimport:Package information not found for class SvVoltage, attribute TopologicalNode : 9 times
+WARNING:cimpy.cimimport:Package information not found for class SvVoltage, attribute angle : 9 times
+WARNING:cimpy.cimimport:Package information not found for class SvVoltage, attribute v : 9 times
+WARNING:cimpy.cimimport:'SynchronousMachine' has not attribute 'MemberOf_EquipmentContainer' : 3 times
+WARNING:cimpy.cimimport:'SynchronousMachine' has not attribute 'equivalent' : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute name : 3 times
+WARNING:cimpy.cimimport:'SynchronousMachine' has not attribute 'MemberOf_GeneratingUnit' : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute maxQ : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute minQ : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute operatingMode : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute qPercent : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute r : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute r0 : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute r2 : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute ratedS : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute type : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute x : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute x0 : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute x2 : 3 times
+WARNING:cimpy.cimimport:Package information not found for class SynchronousMachine, attribute RegulatingControl : 1 times
+WARNING:cimpy.cimimport:Package information not found for class Terminal, attribute name : 24 times
+WARNING:cimpy.cimimport:Package information not found for class Terminal, attribute ConductingEquipment : 18 times
+WARNING:cimpy.cimimport:Package information not found for class Terminal, attribute TopologicalNode : 24 times
+WARNING:cimpy.cimimport:Package information not found for class Terminal, attribute connected : 24 times
+WARNING:cimpy.cimimport:Package information not found for class Terminal, attribute sequenceNumber : 24 times
+WARNING:cimpy.cimimport:Referenced Terminal [_2ac781a7-8870-42ed-981f-58b0ddb9c0b8] object missing. : 1 times
+WARNING:cimpy.cimimport:Referenced Terminal [_a779b588-ffa8-416b-a731-ccf4cdae1202] object missing. : 1 times
+WARNING:cimpy.cimimport:Referenced Terminal [_58c87e6b-cc15-4afe-a1fc-f300688542d6] object missing. : 1 times
+WARNING:cimpy.cimimport:Referenced Terminal [_fd73d4d7-7378-4bdd-9825-0b90f3cf264f] object missing. : 1 times
+WARNING:cimpy.cimimport:Referenced Terminal [_d43a0bd7-e928-4b40-8e0b-f66f79934104] object missing. : 1 times
+WARNING:cimpy.cimimport:Referenced Terminal [_5f22ee97-e2d2-41ac-9cb5-d8d957e49dcd] object missing. : 1 times
+WARNING:cimpy.cimimport:Package information not found for class TopologicalIsland, attribute name : 1 times
+WARNING:cimpy.cimimport:'TopologicalIsland' has not attribute 'AngleRef_TopologicalNode' : 1 times
+WARNING:cimpy.cimimport:Package information not found for class TopologicalNode, attribute name : 9 times
+WARNING:cimpy.cimimport:Package information not found for class TopologicalNode, attribute BaseVoltage : 9 times
+WARNING:cimpy.cimimport:Package information not found for class TopologicalNode, attribute ConnectivityNodeContainer : 9 times
+WARNING:cimpy.cimimport:'TopologicalNode' has not attribute 'ControlArea' : 9 times
+WARNING:cimpy.cimimport:Package information not found for class TopologicalNode, attribute TopologicalIsland : 9 times
+WARNING:cimpy.cimimport:Missing TransformerWinding object with uuid: _2ac781a7-8870-42ed-981f-58b0ddb9c0b8 : 1 times
+WARNING:cimpy.cimimport:Missing TransformerWinding object with uuid: _58c87e6b-cc15-4afe-a1fc-f300688542d6 : 1 times
+WARNING:cimpy.cimimport:Missing TransformerWinding object with uuid: _5f22ee97-e2d2-41ac-9cb5-d8d957e49dcd : 1 times
+WARNING:cimpy.cimimport:Missing TransformerWinding object with uuid: _a779b588-ffa8-416b-a731-ccf4cdae1202 : 1 times
+WARNING:cimpy.cimimport:Missing TransformerWinding object with uuid: _d43a0bd7-e928-4b40-8e0b-f66f79934104 : 1 times
+WARNING:cimpy.cimimport:Missing TransformerWinding object with uuid: _fd73d4d7-7378-4bdd-9825-0b90f3cf264f : 1 times
+WARNING:cimpy.cimimport:Package information not found for class VoltageLevel, attribute name : 9 times
+WARNING:cimpy.cimimport:Package information not found for class VoltageLevel, attribute BaseVoltage : 9 times
+WARNING:cimpy.cimimport:'VoltageLevel' has not attribute 'MemberOf_Substation' : 9 times
+WARNING:cimpy.cimimport:Package information not found for class VoltageLimit, attribute name : 18 times
+WARNING:cimpy.cimimport:Package information not found for class VoltageLimit, attribute OperationalLimitSet : 18 times
+WARNING:cimpy.cimimport:Package information not found for class VoltageLimit, attribute OperationalLimitType : 18 times
+WARNING:cimpy.cimimport:Package information not found for class VoltageLimit, attribute value : 18 times
+INFO:cimpy.cimimport:CIM object ACLineSegment created : 6 times
+INFO:cimpy.cimimport:CIM object BaseVoltage created : 4 times
+INFO:cimpy.cimimport:CIM object ControlArea created : 1 times
+INFO:cimpy.cimimport:CIM object CurrentLimit created : 18 times
+INFO:cimpy.cimimport:CIM object EnergyConsumer created : 3 times
+INFO:cimpy.cimimport:CIM object GeneratingUnit created : 3 times
+INFO:cimpy.cimimport:CIM object GeographicalRegion created : 1 times
+INFO:cimpy.cimimport:CIM object LoadResponseCharacteristic created : 1 times
+INFO:cimpy.cimimport:CIM object OperationalLimitSet created : 36 times
+INFO:cimpy.cimimport:CIM object OperationalLimitType created : 3 times
+INFO:cimpy.cimimport:CIM object PowerTransformer created : 3 times
+INFO:cimpy.cimimport:CIM object RegulatingControl created : 1 times
+INFO:cimpy.cimimport:CIM object SubGeographicalRegion created : 1 times
+INFO:cimpy.cimimport:CIM object Substation created : 9 times
+INFO:cimpy.cimimport:CIM object SvPowerFlow created : 6 times
+INFO:cimpy.cimimport:CIM object SvVoltage created : 9 times
+INFO:cimpy.cimimport:CIM object SynchronousMachine created : 3 times
+INFO:cimpy.cimimport:CIM object Terminal created : 24 times
+INFO:cimpy.cimimport:CIM object TopologicalIsland created : 1 times
+INFO:cimpy.cimimport:CIM object TopologicalNode created : 9 times
+INFO:cimpy.cimimport:CIM object VoltageLevel created : 9 times
+INFO:cimpy.cimimport:CIM object VoltageLimit created : 18 times
+INFO:cimpy.cimimport:Created totally 169 CIM objects in 0.02499985694885254s
+
+
